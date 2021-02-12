@@ -1,0 +1,52 @@
+2021-Feb-12 18:04:41 [restartedMain] INFO  c.n.SpringRestTemplateApplication                  - Starting SpringRestTemplateApplication using Java 15.0.1 on HT-Billing with PID 12252 (C:\Users\vijaya\git\repository2\SpringRestTemplate\target\classes started by vijaya in C:\Users\vijaya\git\repository2\SpringRestTemplate)
+2021-Feb-12 18:04:41 [restartedMain] INFO  c.n.SpringRestTemplateApplication                  - No active profile set, falling back to default profiles: default
+2021-Feb-12 18:04:41 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-Feb-12 18:04:41 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-Feb-12 18:04:41 [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer                        - Tomcat initialized with port(s): 8080 (http)
+2021-Feb-12 18:04:41 [restartedMain] INFO  o.a.c.h.Http11NioProtocol                          - Initializing ProtocolHandler ["http-nio-8080"]
+2021-Feb-12 18:04:41 [restartedMain] INFO  o.a.c.c.StandardService                            - Starting service [Tomcat]
+2021-Feb-12 18:04:41 [restartedMain] INFO  o.a.c.c.StandardEngine                             - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-Feb-12 18:04:41 [restartedMain] INFO  o.a.c.c.C.[.[.[/]                                  - Initializing Spring embedded WebApplicationContext
+2021-Feb-12 18:04:41 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 579 ms
+2021-Feb-12 18:04:42 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor                     - Initializing ExecutorService 'applicationTaskExecutor'
+2021-Feb-12 18:04:42 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2021-Feb-12 18:04:42 [restartedMain] INFO  o.a.c.h.Http11NioProtocol                          - Starting ProtocolHandler ["http-nio-8080"]
+2021-Feb-12 18:04:42 [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer                        - Tomcat started on port(s): 8080 (http) with context path ''
+2021-Feb-12 18:04:42 [restartedMain] INFO  c.n.SpringRestTemplateApplication                  - Started SpringRestTemplateApplication in 1.145 seconds (JVM running for 1.897)
+2021-Feb-12 18:04:50 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/]                                  - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-Feb-12 18:04:50 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet                          - Initializing Servlet 'dispatcherServlet'
+2021-Feb-12 18:04:50 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet                          - Completed initialization in 1 ms
+2021-Feb-12 18:05:04 [Thread-5] INFO  o.s.s.c.ThreadPoolTaskExecutor                     - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-Feb-12 18:05:04 [restartedMain] INFO  c.n.SpringRestTemplateApplication                  - Starting SpringRestTemplateApplication using Java 15.0.1 on HT-Billing with PID 12252 (C:\Users\vijaya\git\repository2\SpringRestTemplate\target\classes started by vijaya in C:\Users\vijaya\git\repository2\SpringRestTemplate)
+2021-Feb-12 18:05:04 [restartedMain] INFO  c.n.SpringRestTemplateApplication                  - No active profile set, falling back to default profiles: default
+2021-Feb-12 18:05:04 [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer                        - Tomcat initialized with port(s): 8080 (http)
+2021-Feb-12 18:05:04 [restartedMain] INFO  o.a.c.h.Http11NioProtocol                          - Initializing ProtocolHandler ["http-nio-8080"]
+2021-Feb-12 18:05:04 [restartedMain] INFO  o.a.c.c.StandardService                            - Starting service [Tomcat]
+2021-Feb-12 18:05:04 [restartedMain] INFO  o.a.c.c.StandardEngine                             - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-Feb-12 18:05:04 [restartedMain] INFO  o.a.c.c.C.[.[.[/]                                  - Initializing Spring embedded WebApplicationContext
+2021-Feb-12 18:05:04 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 119 ms
+2021-Feb-12 18:05:04 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor                     - Initializing ExecutorService 'applicationTaskExecutor'
+2021-Feb-12 18:05:04 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2021-Feb-12 18:05:04 [restartedMain] INFO  o.a.c.h.Http11NioProtocol                          - Starting ProtocolHandler ["http-nio-8080"]
+2021-Feb-12 18:05:04 [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer                        - Tomcat started on port(s): 8080 (http) with context path ''
+2021-Feb-12 18:05:04 [restartedMain] INFO  c.n.SpringRestTemplateApplication                  - Started SpringRestTemplateApplication in 0.221 seconds (JVM running for 23.971)
+2021-Feb-12 18:05:04 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2021-Feb-12 18:05:07 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/]                                  - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-Feb-12 18:05:07 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet                          - Initializing Servlet 'dispatcherServlet'
+2021-Feb-12 18:05:07 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet                          - Completed initialization in 1 ms
+2021-Feb-12 18:05:07 [http-nio-8080-exec-1] INFO  c.n.c.TotoController                               - Hello from Log4j 2 - num 
+2021-Feb-12 18:05:27 [Thread-8] INFO  o.s.s.c.ThreadPoolTaskExecutor                     - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-Feb-12 18:05:27 [restartedMain] INFO  c.n.SpringRestTemplateApplication                  - Starting SpringRestTemplateApplication using Java 15.0.1 on HT-Billing with PID 12252 (C:\Users\vijaya\git\repository2\SpringRestTemplate\target\classes started by vijaya in C:\Users\vijaya\git\repository2\SpringRestTemplate)
+2021-Feb-12 18:05:27 [restartedMain] INFO  c.n.SpringRestTemplateApplication                  - No active profile set, falling back to default profiles: default
+2021-Feb-12 18:05:27 [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer                        - Tomcat initialized with port(s): 8080 (http)
+2021-Feb-12 18:05:27 [restartedMain] INFO  o.a.c.h.Http11NioProtocol                          - Initializing ProtocolHandler ["http-nio-8080"]
+2021-Feb-12 18:05:27 [restartedMain] INFO  o.a.c.c.StandardService                            - Starting service [Tomcat]
+2021-Feb-12 18:05:27 [restartedMain] INFO  o.a.c.c.StandardEngine                             - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-Feb-12 18:05:27 [restartedMain] INFO  o.a.c.c.C.[.[.[/]                                  - Initializing Spring embedded WebApplicationContext
+2021-Feb-12 18:05:27 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 118 ms
+2021-Feb-12 18:05:27 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor                     - Initializing ExecutorService 'applicationTaskExecutor'
+2021-Feb-12 18:05:27 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2021-Feb-12 18:05:27 [restartedMain] INFO  o.a.c.h.Http11NioProtocol                          - Starting ProtocolHandler ["http-nio-8080"]
+2021-Feb-12 18:05:27 [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer                        - Tomcat started on port(s): 8080 (http) with context path ''
+2021-Feb-12 18:05:27 [restartedMain] INFO  c.n.SpringRestTemplateApplication                  - Started SpringRestTemplateApplication in 0.204 seconds (JVM running for 47.073)
+2021-Feb-12 18:05:27 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
