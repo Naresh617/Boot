@@ -50,3 +50,5 @@
 2021-Feb-12 18:05:27 [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer                        - Tomcat started on port(s): 8080 (http) with context path ''
 2021-Feb-12 18:05:27 [restartedMain] INFO  c.n.SpringRestTemplateApplication                  - Started SpringRestTemplateApplication in 0.204 seconds (JVM running for 47.073)
 2021-Feb-12 18:05:27 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2021-Feb-12 18:10:53 [RMI TCP Connection(8)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-Feb-12 18:10:53 [RMI TCP Connection(8)-127.0.0.1] INFO  o.s.s.c.ThreadPoolTaskExecutor                     - Shutting down ExecutorService 'applicationTaskExecutor'
